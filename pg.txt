@@ -1,4 +1,3 @@
 ranji
 LA
-MN
-TX
+
