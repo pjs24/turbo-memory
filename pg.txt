@@ -1,5 +1,4 @@
 ranji
 LA
-Minnesota
-Coldest place
-workArea
+MN 
+He is working on DevOps
